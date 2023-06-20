@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+.h1{
+    text-align:justify;
+}
+.p1{
+    width: 500px;
+    text-align: justify;
+    margin: 20px;
+}
+
+body{
+    background-image: url("https://cdn.theatlantic.com/thumbor/mORGMuM_Oh1Rc3YJzLc3bwoApIY=/1071x0:3826x2755/1080x1080/media/img/mt/2021/07/GettyImages_473437806_copy/original.jpg");
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: right bottom;
+    background-attachment: fixed;
+    
+}
+
